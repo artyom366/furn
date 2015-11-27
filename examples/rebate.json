@@ -1,0 +1,9 @@
+{
+  "description": "test fixed value discount 10",
+  "type": "FIXED",
+  "timeOfYear": null,
+  "discountPercentage": 50,
+  "quantityThreshold": null,
+  "startPeriod": 1448625227801,
+  "endPeriod": 1449489227801
+}

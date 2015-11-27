@@ -1,0 +1,7 @@
+{
+  "name": "Test product",
+  "price": 1000,
+  "description": "Super test product for all",
+  "stock": 100,
+  "number": "0000001"
+}

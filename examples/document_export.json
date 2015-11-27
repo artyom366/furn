@@ -1,0 +1,28 @@
+{
+  "number": "AA-00001",
+  "type": "EXPORT",
+  "client": {
+    "id": 1
+  },
+  "lines": [
+    {
+      "product": {
+        "id": 1
+      },
+      "quantity": 100000
+    },
+    {
+      "product": {
+        "id": 1
+      },
+      "quantity": 210000
+    },
+    {
+      "product": {
+        "id": 2
+      },
+      "quantity": 210005
+    }
+  ],
+  "taxRate": 21
+}
